@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student pursuing bachelor's in computer engineering,<br> 
+Student pursuing bachelor's in Computer Engineering,<br> 
 
 
 # 💻 Tech Stack:
